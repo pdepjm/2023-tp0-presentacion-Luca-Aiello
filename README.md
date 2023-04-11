@@ -1,7 +1,7 @@
 # **Presentación de Luca Aiello**
 ## Legajo: 175.408-7
 ___
-## **Una foto de cuando tuve la oportunidad de ir a presenciar la Orquesta Filarmónica en el Teatro Colón**
+**Una foto de cuando tuve la oportunidad de ir a presenciar la Orquesta Filarmónica en el Teatro Colón**
 ![](e:/Facu/Paradigmas%20de%20programaci%C3%B3n/Presentacion/Foto-Present.jpg)
 ___
 Me llamo Luca, tengo 21 años y y estoy entre el segundo y tercer año de la carrera. Elegí esta carrera porque desde chico me interesa todo lo relacionado con la programación y las computadoras. También siempre admire a los Ingenieros de cualquier tipo, por todo lo que conlleva serlo, y esto me impulso a también serlo.
