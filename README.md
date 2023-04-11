@@ -13,6 +13,7 @@ ___
  - Soy Técnico informatico, básicamente, arreglo compus, algo que cualquiera puede hacer viendo youtube.
  - Inicie la facu en 2020, pero por diversos temas me puse las pilas en 2021.
  - Mi helado favorito, para salir de lo basico (dulce de leche), es el de tiramisú (tampoco es muy exótico)
+ - Soy hincha enfermo de River 
 ___
 ## **Dato curioso:**
 El lago Nahuel Huapi es producto del deshielo de un glaciar, basicamente se "descongelo".
