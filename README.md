@@ -2,7 +2,7 @@
 ## Legajo: 175.408-7
 ___
 **Una foto de cuando tuve la oportunidad de ir a presenciar la Orquesta Filarmónica en el Teatro Colón**
-![Foto-Present|75](https://user-images.githubusercontent.com/129466268/231030002-180a3d91-92c6-4c7c-8750-8809a2120455.jpg)
+![Foto-Present|20](https://user-images.githubusercontent.com/129466268/231030002-180a3d91-92c6-4c7c-8750-8809a2120455.jpg)
 ___
 Me llamo Luca, tengo 21 años y y estoy entre el segundo y tercer año de la carrera. Elegí esta carrera porque desde chico me interesa todo lo relacionado con la programación y las computadoras. También siempre admire a los Ingenieros de cualquier tipo, por todo lo que conlleva serlo, y esto me impulso a también serlo.
 ___
