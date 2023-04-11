@@ -1,7 +1,7 @@
 # **Presentación de Luca Aiello**
 ## Legajo: 175.408-7
 ___
-**Una foto de cuando tuve la oportunidad de ir a presenciar la Orquesta Filarmónica en el Teatro Colón**
+## **Una foto de cuando tuve la oportunidad de ir a presenciar la Orquesta Filarmónica en el Teatro Colón**
 ![custom_resized_bb8ff6d0-4b0b-4feb-be68-4aeaa439ed02](https://user-images.githubusercontent.com/129466268/231032471-50c86b64-5d83-4dff-9633-ed4826d833f3.jpg)
 
 ___
