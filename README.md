@@ -2,7 +2,8 @@
 ## Legajo: 175.408-7
 ___
 **Una foto de cuando tuve la oportunidad de ir a presenciar la Orquesta Filarmónica en el Teatro Colón**
-![IMG_3472](https://user-images.githubusercontent.com/129466268/231032121-eb1c4aa5-4e19-4e3f-91b9-72e8f3e688f2.jpg)
+![Foto-Present2](https://user-images.githubusercontent.com/129466268/231032226-9c43ab93-9698-4c22-ba9d-22c262fd70b0.jpg)
+
 
 
 ___
