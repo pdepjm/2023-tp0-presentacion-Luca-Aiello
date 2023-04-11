@@ -15,4 +15,4 @@ ___
  - Mi helado favorito, para salir de lo basico (dulce de leche), es el de tiramisú (tampoco es muy exótico)
 ___
 **Dato curioso:**
-El lago Nahuel Huepi es producto del deshielo de un glaciar, basicamente se "descongelo".
+El lago Nahuel Huapi es producto del deshielo de un glaciar, basicamente se "descongelo".
